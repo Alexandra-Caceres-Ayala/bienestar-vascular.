@@ -12,7 +12,7 @@
 **Aplicación híbrida** desarrollada **desde cero y sin frameworks** (HTML + CSS + JavaScript Vanilla): un mismo código base funciona como **Web / PWA instalable** y como **extensión de Chrome (Manifest V3)**.
 
 ### 🔗 Pruébala ahora
-**▶️ Demo en vivo:** https://alexandra-caceres-ayala.github.io/bienestar-vascular/
+**▶️ Demo en vivo:** https://alexandra-caceres-ayala.github.io/bienestar-vascular-pausas-activas/
 🧩 *En revisión para la Chrome Web Store.*
 
 ---
