@@ -68,7 +68,7 @@ bienestar-vascular/
 
 ## ▶️ Cómo usarlo
 
-**Web / PWA** — ábrela desde la [demo en vivo](https://alexandra-caceres-ayala.github.io/bienestar-vascular/) y pulsa **«Instalar app»** en móvil o escritorio.
+**Web / PWA** — ábrela desde la [demo en vivo](https://alexandra-caceres-ayala.github.io/bienestar-vascular-pausas-activas/) y pulsa **«Instalar app»** en móvil o escritorio.
 *(En la web los avisos llegan con la pestaña abierta; para recordatorios en segundo plano, usa la extensión.)*
 
 **Extensión de Chrome (modo desarrollador)**
